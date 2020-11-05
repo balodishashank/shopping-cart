@@ -1,0 +1,75 @@
+/* Add application styles & imports to this file! */
+
+.product-cart {  
+  position: fixed;
+  right: 1em;
+  top: 73px;
+  width: 350px;
+  background-color: #FFF;
+  border: 1px solid #CCC;
+  box-shadow: 0 5px 15px rgba(0,0,0, 0.2);
+}
+
+.product-cart ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.product-cart li {
+  display: flex;
+  flex-flow: row;
+  padding: 1em;
+  border-bottom: 1px solid #CCC;
+  font-size: 14px;
+}
+
+.product-cart img {
+  height: 50px;
+  width: auto;
+  margin-right: 1em;
+}
+
+.product-list__item h4 {
+  font-size: 16px;
+}
+
+.product-list__image {
+  padding: 1em;
+  height: 250px;
+}
+
+.product-list__image img {
+  max-width: 100%;
+}
+
+.cart-count {
+  color: #FFF;
+  position: relative;
+}
+.cart-count em {
+  height: 24px;
+  background-color: red;
+  font-style: normal;
+  padding: 0;
+  border-radius: 50px;
+  position: absolute;
+  top: -5px;
+  right: -14px;
+  width: 24px;
+  text-align: center;
+  line-height: 24px;
+  color: #FFF;
+  font-weight: bold;
+}
+
+.cart-total {
+  padding: 1em;
+  margin: 0;
+  display: flex;
+  flex-flow: row;
+  align-items: normal;
+  justify-content: space-between;
+}
+/* Importing Bootstrap SCSS file. */
+@import '~bootstrap/scss/bootstrap';

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "001",
+    "name": "Xiaomi(MI4A) 108 cm(43 inch) LED Smart TV ",
+    "price": 22999,
+    "image": "../../assets/images/led1.jpeg",
+    "description": "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer."
+  },
+  {
+    "id": "002",
+    "name": "Videocon 80cm (32 inch) HD Ready LED TV",
+    "price": 15999,
+    "image": "../../assets/images/led2.jpeg",
+    "description": "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer."
+  },
+  {
+    "id": "003",
+    "name": "Micromax 81cm (32 inch) HD Ready LED TV",
+    "price": 11999,
+    "image": "../../assets/images/led3.jpeg",
+    "description": "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer."
+  },
+  {
+    "id": "004",
+    "name": "Thomson LED Smart TV B9 Pro 80cm (32)",
+    "price": 24000,
+    "image": "../../assets/images/led4.jpeg",
+    "description": "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer."
+  },
+  {
+    "id": "005",
+    "name": "Panasonic 109cm (43 inch) Ultra HD (4K) LED TV",
+    "price": 41000,
+    "image": "../../assets/images/led5.jpeg",
+    "description": "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer."
+  },
+  {
+    "id": "006",
+    "name": "Panasonic 109cm (43 inch) Ultra HD (4K) LED TV",
+    "price": 15400,
+    "image": "../../assets/images/led3.jpeg",
+    "description": "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer."
+  }
+]
